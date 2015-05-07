@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSegurosApp", "MinutoSegurosApp\MinutoSegurosApp.csproj", "{6EE93456-FCF7-4CA4-8330-47BEF5212BB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSegurosAppTester", "MinutoSegurosAppTester\MinutoSegurosAppTester.csproj", "{17DE5186-0F5C-42C6-AFE4-F422CBF53211}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://marciojustino.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MinutoSegurosApp\\MinutoSegurosApp.csproj
+		SccProjectName1 = MinutoSegurosApp
+		SccLocalPath1 = MinutoSegurosApp
+		SccProjectUniqueName2 = MinutoSegurosAppTester\\MinutoSegurosAppTester.csproj
+		SccProjectName2 = MinutoSegurosAppTester
+		SccLocalPath2 = MinutoSegurosAppTester
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EE93456-FCF7-4CA4-8330-47BEF5212BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE93456-FCF7-4CA4-8330-47BEF5212BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE93456-FCF7-4CA4-8330-47BEF5212BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE93456-FCF7-4CA4-8330-47BEF5212BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17DE5186-0F5C-42C6-AFE4-F422CBF53211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DE5186-0F5C-42C6-AFE4-F422CBF53211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DE5186-0F5C-42C6-AFE4-F422CBF53211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DE5186-0F5C-42C6-AFE4-F422CBF53211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

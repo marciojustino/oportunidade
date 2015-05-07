@@ -1,0 +1,5 @@
+D:\marciojustino.visualstudio.com\csharp\MinutoSegurosApp\MinutoSegurosApp\bin\Debug\MinutoSegurosApp.dll
+D:\marciojustino.visualstudio.com\csharp\MinutoSegurosApp\MinutoSegurosApp\bin\Debug\MinutoSegurosApp.pdb
+D:\marciojustino.visualstudio.com\csharp\MinutoSegurosApp\MinutoSegurosApp\obj\Debug\MinutoSegurosApp.dll
+D:\marciojustino.visualstudio.com\csharp\MinutoSegurosApp\MinutoSegurosApp\obj\Debug\MinutoSegurosApp.pdb
+D:\marciojustino.visualstudio.com\csharp\MinutoSegurosApp\MinutoSegurosApp\obj\Debug\MinutoSegurosApp.csprojResolveAssemblyReference.cache

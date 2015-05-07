@@ -1,0 +1,7 @@
+D:\marciojustino.visualstudio.com\csharp\MinutoSegurosApp\MinutoSegurosAppTester\bin\Debug\MinutoSegurosAppTester.exe
+D:\marciojustino.visualstudio.com\csharp\MinutoSegurosApp\MinutoSegurosAppTester\bin\Debug\MinutoSegurosAppTester.pdb
+D:\marciojustino.visualstudio.com\csharp\MinutoSegurosApp\MinutoSegurosAppTester\bin\Debug\MinutoSegurosApp.dll
+D:\marciojustino.visualstudio.com\csharp\MinutoSegurosApp\MinutoSegurosAppTester\bin\Debug\MinutoSegurosApp.pdb
+D:\marciojustino.visualstudio.com\csharp\MinutoSegurosApp\MinutoSegurosAppTester\obj\Debug\MinutoSegurosAppTester.csprojResolveAssemblyReference.cache
+D:\marciojustino.visualstudio.com\csharp\MinutoSegurosApp\MinutoSegurosAppTester\obj\Debug\MinutoSegurosAppTester.exe
+D:\marciojustino.visualstudio.com\csharp\MinutoSegurosApp\MinutoSegurosAppTester\obj\Debug\MinutoSegurosAppTester.pdb
